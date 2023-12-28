@@ -31,11 +31,11 @@ To use these dotfiles on your system, follow these steps:
 
 1. Clone the repository: 
    ```bash
-   https://github.com/wesleybertipaglia/dots.git
+   https://github.com/wesleybertipaglia/dotfiles.git
    ```
 2. Navigate to the repository:
    ```bash
-   cd dots
+   cd dotfiles
    ```
 3. Copy the relevant configuration files to your home directory or symlink them as needed.
 
