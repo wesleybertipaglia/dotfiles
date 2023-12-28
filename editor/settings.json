@@ -1,0 +1,53 @@
+{
+    "window.dialogStyle": "custom",
+    "window.titleBarStyle": "custom",
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": true,
+    "editor.suggestSelection": "first",
+    "editor.snippetSuggestions": "top",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "vs-minimal",
+
+    "git.openRepositoryInParentFolders": "never",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "onFocusChange",
+    
+    "html.autoClosingTags": true,
+    "html.format.enable": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.wrapAttributes": "auto",
+
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "javascript.validate.enable": true,
+    "typescript.validate.enable": true,
+    "css.validate": true,
+
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true
+}
